@@ -19,6 +19,8 @@
 
 <body style='margin : 0px; overflow: hidden; font-family: Monospace;'>
   <video id="video" autoplay loop crossOrigin="anonymous" webkit-playsinline style="display:none">
+
+    <source src="video/Neymar_video2.ogv" type='video/ogg; codecs="theora, vorbis"'>
     <source src="video/neymar.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
   </video>
   <!-- 
@@ -143,19 +145,20 @@
             }, onProgress, onError);
         });
 
-      // let geometry1 = new THREE.PlaneBufferGeometry(2, 2, 4, 4);
+      let geometry1 = new THREE.PlaneBufferGeometry(2, 2, 4, 4);
 
-      // let video = document.getElementById('video');
-      // let texture = new THREE.VideoTexture(video);
-      // texture.minFilter = THREE.LinearFilter;
-      // texture.magFilter = THREE.LinearFilter;
-      // texture.format = THREE.RGBFormat;
-      // let material1 = new THREE.MeshBasicMaterial({ map: texture });
+      let video = document.getElementById('video');
+      let texture = new THREE.VideoTexture(video);
+      texture.minFilter = THREE.LinearFilter;
+      texture.magFilter = THREE.LinearFilter;
+      texture.format = THREE.RGBFormat;
+      let material1 = new THREE.MeshBasicMaterial({ map: texture });
 
-      // mesh1 = new THREE.Mesh(geometry1, material1);
-      // mesh1.rotation.x = -Math.PI / 2;
+      mesh1 = new THREE.Mesh(geometry1, material1);
+      mesh1.rotation.x = -Math.PI / 2;
+      mesh1.position.x = 2
 
-      // markerRoot1.add(mesh1);
+      markerRoot1.add(mesh1);
 
     }
 
