@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "888a48bf64999b0bbe287efcd1cb922c",
+    "revision": "21dad48a0c79623d60e4b71848dc088b",
     "url": "/megahack/index.html"
   },
   {
-    "revision": "971f829504a76ac1bd94",
+    "revision": "2cbff9c48df3c4557279",
     "url": "/megahack/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/megahack/static/js/2.ae034f51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "971f829504a76ac1bd94",
-    "url": "/megahack/static/js/main.48e9a716.chunk.js"
+    "revision": "2cbff9c48df3c4557279",
+    "url": "/megahack/static/js/main.11e75d1b.chunk.js"
   },
   {
     "revision": "80fe349b59166f461b77",
