@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/megahack/static/css/main.d1b05096.chunk.css",
-    "main.js": "/megahack/static/js/main.86790409.chunk.js",
-    "main.js.map": "/megahack/static/js/main.86790409.chunk.js.map",
+    "main.js": "/megahack/static/js/main.48e9a716.chunk.js",
+    "main.js.map": "/megahack/static/js/main.48e9a716.chunk.js.map",
     "runtime-main.js": "/megahack/static/js/runtime-main.fc720c42.js",
     "runtime-main.js.map": "/megahack/static/js/runtime-main.fc720c42.js.map",
-    "static/js/2.98da519d.chunk.js": "/megahack/static/js/2.98da519d.chunk.js",
-    "static/js/2.98da519d.chunk.js.map": "/megahack/static/js/2.98da519d.chunk.js.map",
+    "static/js/2.ae034f51.chunk.js": "/megahack/static/js/2.ae034f51.chunk.js",
+    "static/js/2.ae034f51.chunk.js.map": "/megahack/static/js/2.ae034f51.chunk.js.map",
     "index.html": "/megahack/index.html",
-    "precache-manifest.38a7b6ce5bf90d4442f47f58098cd228.js": "/megahack/precache-manifest.38a7b6ce5bf90d4442f47f58098cd228.js",
+    "precache-manifest.b0f3d51684e3837fd0f2fec073a3d630.js": "/megahack/precache-manifest.b0f3d51684e3837fd0f2fec073a3d630.js",
     "service-worker.js": "/megahack/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/megahack/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.98da519d.chunk.js.LICENSE.txt": "/megahack/static/js/2.98da519d.chunk.js.LICENSE.txt",
+    "static/js/2.ae034f51.chunk.js.LICENSE.txt": "/megahack/static/js/2.ae034f51.chunk.js.LICENSE.txt",
+    "static/media/006.png": "/megahack/static/media/006.d4313cc0.png",
     "static/media/Neymar_video2.ogv": "/megahack/static/media/Neymar_video2.4817f1e6.ogv",
     "static/media/campo.png": "/megahack/static/media/campo.4731f914.png",
     "static/media/logo.svg": "/megahack/static/media/logo.5d5d9eef.svg",
@@ -19,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fc720c42.js",
-    "static/js/2.98da519d.chunk.js",
+    "static/js/2.ae034f51.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.86790409.chunk.js"
+    "static/js/main.48e9a716.chunk.js"
   ]
 }

@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f419863aa7ece817b2d8c8e2694fb71",
+    "revision": "600ca5ad5b01f2e2ddfbd5ccf40b9f11",
     "url": "/megahack/index.html"
   },
   {
-    "revision": "63ac77cff967420d4729",
+    "revision": "971f829504a76ac1bd94",
     "url": "/megahack/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "9840409da60b29e18a19",
-    "url": "/megahack/static/js/2.98da519d.chunk.js"
+    "revision": "4d9b4023eab7c5d98ec8",
+    "url": "/megahack/static/js/2.ae034f51.chunk.js"
   },
   {
     "revision": "3adc01bea76e7956dc3633ee898f6936",
-    "url": "/megahack/static/js/2.98da519d.chunk.js.LICENSE.txt"
+    "url": "/megahack/static/js/2.ae034f51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63ac77cff967420d4729",
-    "url": "/megahack/static/js/main.86790409.chunk.js"
+    "revision": "971f829504a76ac1bd94",
+    "url": "/megahack/static/js/main.48e9a716.chunk.js"
   },
   {
     "revision": "80fe349b59166f461b77",
     "url": "/megahack/static/js/runtime-main.fc720c42.js"
+  },
+  {
+    "revision": "d4313cc0cc405b97a3183d7916b79394",
+    "url": "/megahack/static/media/006.d4313cc0.png"
   },
   {
     "revision": "4817f1e64bb96f9e11023a22b4d07ffe",
