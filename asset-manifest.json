@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/megahack/static/css/main.d1b05096.chunk.css",
-    "main.js": "/megahack/static/js/main.cd7e22fa.chunk.js",
-    "main.js.map": "/megahack/static/js/main.cd7e22fa.chunk.js.map",
+    "main.js": "/megahack/static/js/main.6fd36004.chunk.js",
+    "main.js.map": "/megahack/static/js/main.6fd36004.chunk.js.map",
     "runtime-main.js": "/megahack/static/js/runtime-main.fc720c42.js",
     "runtime-main.js.map": "/megahack/static/js/runtime-main.fc720c42.js.map",
     "static/js/2.38580200.chunk.js": "/megahack/static/js/2.38580200.chunk.js",
     "static/js/2.38580200.chunk.js.map": "/megahack/static/js/2.38580200.chunk.js.map",
     "index.html": "/megahack/index.html",
-    "precache-manifest.c354fda7bc4d8db021255fb5b96c8f6c.js": "/megahack/precache-manifest.c354fda7bc4d8db021255fb5b96c8f6c.js",
+    "precache-manifest.458a0e56d568ac04f704ab44630c59b3.js": "/megahack/precache-manifest.458a0e56d568ac04f704ab44630c59b3.js",
     "service-worker.js": "/megahack/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/megahack/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.38580200.chunk.js.LICENSE.txt": "/megahack/static/js/2.38580200.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fc720c42.js",
     "static/js/2.38580200.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cd7e22fa.chunk.js"
+    "static/js/main.6fd36004.chunk.js"
   ]
 }
