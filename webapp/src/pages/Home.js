@@ -11,36 +11,39 @@ class HomePage extends React.Component {
 		}
 	}
 
+	componentDidMount() {
+		document.querySelector('body').style.backgroundColor = "#333"
+	}
+
 	render() {
 		return (
 			<Fragment>
-				<Grid container
-					direction="column"
-					alignContent="center"
-					alignItems="center"
-					justify="center"
-					style={{ width: '100%', height: '100vh', backgroundColor: '#333' }}>
+				<div style={{ width: '100%', height: '100vh' }}>
+					<Grid container
+						direction="column"
+						alignContent="center"
+						alignItems="center"
+						justify="center"
+					>
 
-					<Typography variant="h1" style={{ color: 'white' }}>AR Play</Typography>
+						<Typography variant="h1" style={{ color: 'white' }}>AR Play</Typography>
 
-					<Grid item xs={2}>
+
 						<img src={icon} width="250"></img>
-					</Grid>
-					<Grid item xs={2}>
-						<Link to="/field">
-							<Button style={{ background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)' }} variant="contained" >
-								COMEÇAR EXPÊRIENCIA
+
+						<Button style={{ background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)' }} variant="contained" >
+							<Link to="/field">COMEÇAR EXPÊRIENCIA</Link>
 						</Button>
-						</Link>
-					</Grid>
-					{/* <Grid item xs={2}>
+
+						{/* <Grid item xs={2}>
 						<Link to="/player">
 							<Button variant="contained" color="primary">
 								Detalhes Jogador
 						</Button>
 						</Link>
 					</Grid> */}
-				</Grid>
+					</Grid>
+				</div>
 			</Fragment >
 		)
 	}
