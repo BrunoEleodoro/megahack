@@ -4,7 +4,7 @@ import './App.css';
 import HomePage from './pages/Home';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Player from './pages/Player';
-import Field from './pages/Field';
+import FieldPage from './pages/Field';
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
             <Player />
           </Route>
           <Route path="/field">
-            <Field />
+            <FieldPage />
           </Route>
           <Route path="/">
             <HomePage />
